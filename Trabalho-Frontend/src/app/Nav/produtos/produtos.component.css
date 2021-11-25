@@ -1,0 +1,65 @@
+.banner-image{ padding-top: 75px;
+  padding-bottom: 50px;
+  text-align: center;
+  *color: #f8f8f8;
+  background-size: cover;
+}
+
+
+.thumbnail img{
+  max-height: 250px;
+  border-radius: 15px;
+
+}
+.thumbnail img:hover{
+  max-height: 260px;
+  transition: 0.3s;
+
+}
+main {
+  min-height: 100vh;
+
+
+}
+
+
+h2{font-weight: bolder;
+}
+.jumbotron_style{
+  margin-top: 50px;
+  background-color:#FFFAFA;
+}
+.table_style{margin-top: 70px;
+}
+h3{
+ color: #13457d;
+  font-weight: bold;
+  font-family: Brush Script MT, Brush Script Std;
+  font-size: 25px;
+}
+h4{font-weight: bolder;
+}
+.container_style{margin-top: 80px;
+
+}
+h5{
+  font-size:17px;
+}
+
+.add-to-cart {
+  font-family: URW Chancery L, cursive;
+  margin: 0;
+  background-color: #093b71;
+  color: #ffffff;
+  border: 1px solid black;
+  border-radius: 4px;
+  outline: none;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 15px;
+  font-weight: 400;
+}
+.padding-20 {
+  padding: 20px;
+}
+
